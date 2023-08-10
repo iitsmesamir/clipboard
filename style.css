@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Bai Jamjuree;
+    font-size: 18px;
+    }
+
+
+.img1{
+    align-items: center;
+ margin-top: 75px;
+ margin-right: 80px;
+ padding-left: 38rem;
+
+}
+.download a {
+    color: #fff;
+    cursor: pointer;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-weight: 400;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.7);
+    
+}
+.ios{
+  
+        background-color: #28a745!important;
+}
+    a {
+        color: #007bff;
+        text-decoration: none;
+        background-color: transparent;
+    }
+    .mac{
+        background-color: #007bff!important;
+        align-items: center;
+    }
+    a.mac:focus, a.mac:hover, button.msc:focus, button.mac:hover {
+        background-color: #0062cc!important;
+    }
+    a.ios:focus, a.ios:hover, button.ios:focus, button.ios:hover {
+        background-color: #1e7e34!important;}
+
+        h2 {
+            font-weight: 600;
+            font-size: 2.5rem;
+            color: hsl(210, 10%, 33%);
+        }
+        .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            line-height: 1.2;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+        }
+        h2 {
+            display: block;
+            font-size: 1.5em;
+            margin-block-start: 0.83em;
+            margin-block-end: 0.83em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+        .txt1 {
+            text-align: center!important;
+            font-size: 30px;
+            font-weight: 700;
+        }
+        .download{
+            text-align: center;
+            margin-top: 40px;
+        }
+        .txt2{
+            color: hsl(201, 11%, 66%);
+            font-weight: 400;
+            text-align: center;
+            font-size: 1.2rem;
+            margin: auto;
+            padding-bottom: 1rem!important;
+            padding-top: 0.5rem!important;
+            margin-bottom: 1.5rem!important
+        }
+        html {
+            font-family: sans-serif;
+            line-height: 1.15;
+            -webkit-text-size-adjust: 100%;
+            -webkit-tap-highlight-color: transparent;
+        }
+        .header{
+            background-image: url(images/pf-s117-ak-086-01_2.jpg);
+            height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    display: block;
+    padding-top: 80px;
+        }
+       p {
+            display: block;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            width: 45%;
+        }
+        .div2{
+            padding-top: 10rem;
+        }
+        .track img {
+            width: 90%;
+        }
+        img {
+            vertical-align: middle;
+            border-style: none;
+        }
+        * {
+            font-family: Bai Jamjuree;
+            font-size: 18px;
+        }
+        *, ::after, ::before {
+            box-sizing: border-box;
+        }
+        user agent stylesheet
+        img {
+            overflow-clip-margin: content-box;
+            overflow: clip;
+        }
+        .track{
+            font-size: 20px;
+            padding: 20px;
+        }
+        .div2_big{
+            justify-content: space-around;
+           display:flex;
+           margin: 30px; 
+
+        }
+        .image{
+            display: flex;
+            padding: 30px;
+        }
+        .texts{
+            margin-bottom: 40px;
+            margin: 4rem;
+        }
+        .div3{
+            text-align: center;
+            padding: 20px;
+        }
+      .div99{
+        justify-content: space-around;
+        display: flex;
+        padding-right: 200px;
+      }
+      .img99{
+    padding-left: 15rem;
+
+      }
+      .img98{
+        padding-left: 10rem;
+      }
+      .img97{
+        padding-left: 9rem;
+      }
+      .logos7{
+        padding: 80px;
+        justify-content: space-between ;
+        text-align: center;
+        padding-right: 30px;
+     
+    }
+    .logos7 img{
+        margin-right: 50px;
+    }
